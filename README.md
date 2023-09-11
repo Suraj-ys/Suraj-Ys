@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **Java,Spring Boot, Hibernate,MVC Architecture,
--  Spring Security, API Development,Html5, Mysql, Webservice**
+- 💬 Ask me about **Java, Spring Boot, Hibernate, MVC Architecture, Spring Security, API Development, Html5, Mysql, Webservice**
 
 - 📫 How to reach me **surajys370@gmail.com**
 <h3 align="left">Connect with me:</h3>
