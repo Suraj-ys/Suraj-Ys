@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Restaurant Reservation System project**
 
-- 🌱 I’m currently learning **React js**
+
 
 - 💬 Ask me about **Java, Spring Boot, Hibernate, MVC Architecture, Spring Security, API Development, Html5, Mysql, Webservice**
 
