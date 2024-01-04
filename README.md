@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Restaurant Reservation System project**
 - 💬 Ask me about **Java, Spring Boot, Hibernate, MVC Architecture, Spring Security, API Development, Html5, Mysql, Webservice**
 
-- 📫 How to reach me **surajys370@gmail.com**
+- 📫 reach me at **surajys370@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/suraj ys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suraj ys" height="30" width="40" /></a>
